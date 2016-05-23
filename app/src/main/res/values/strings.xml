@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">最强AI斗地主</string>
+    <string name="main_title">最强AI斗地主</string>
+
+    <string name="ad_unit_id">ca-app-pub-2543992272653311/9088948788</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="scores">得分</string>
+    <string name="jifen">积分</string>
+    <string name="title_activity_jifen">JifenActivity</string>
+    <string name="upate_ai">更新AI机器人</string>
+</resources>
